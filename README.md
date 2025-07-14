@@ -3,6 +3,6 @@ Downloading data from AWS Center BMKG in bulk. You can choose spesific site or a
 Please use with precautions and abide AWS Center BMKG policy.
 
 
-## How to use th code
+## How to use the code
 
 Just run the code in Google collab. Input your aws center credentials and start downloading
