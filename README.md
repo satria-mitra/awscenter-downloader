@@ -5,4 +5,7 @@ Please use with precautions and abide AWS Center BMKG policy.
 
 ## How to use the code
 
-Just run the code in Google collab. Input your aws center credentials and start downloading
+Just run the .ipynb file in Google collab. It will ask your aws center credentials in the messages output. Select spesific site or just choose all sites and start downloading.
+
+## Credits
+Credit goes to Imron Ade
